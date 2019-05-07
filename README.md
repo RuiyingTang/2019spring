@@ -1,7 +1,4 @@
 # 2019spring
 
 This is a demo repository.
-hello everyone
-see you later
-hello again
-hello 
+I am learning how to use visual studio code
